@@ -1,0 +1,222 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    position: relative;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+option {
+    background-color: rgb(116, 116, 197);
+    color: black;
+}
+
+/*navbar*/
+
+nav.header-nav {
+    width: 100%;
+    height: 80px;
+    background-color: rgb(66, 66, 205);
+
+}
+
+img#white_lotus_icon_photo {
+    width: 45px;
+    height: 45px;
+    left: 38px;
+    top: 15px;
+}
+
+label {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    left: 40px;
+    top: -1px;
+}
+
+
+ul {
+    float: right;
+}
+
+li {
+    display: inline;
+    left: -50px;
+    top: 20px;
+    margin: 25px;
+    font-size: 22px;
+}
+a#nav-one-a { 
+    color: rgb(255, 255, 255);
+    transition: 2.0s;
+    width: 20px;
+    padding: 5px;
+}
+
+a#nav-one-a:hover{
+    background-color: rgb(58, 114, 255);
+    color: rgb(255, 255, 255);
+}
+
+
+a#nav-two-a { 
+    color: rgb(255, 255, 255);
+    transition: 2.0s;
+    width: 20px;
+    padding: 5px;
+}
+
+a#nav-two-a:hover{
+    background-color: rgb(58, 114, 255);
+    color: rgb(228, 228, 228);
+}
+
+
+a#nav-three-a { 
+    color: rgb(255, 255, 255);
+    transition: 2.0s;
+    width: 20px;
+    padding: 5px;
+}
+
+a#nav-three-a:hover{
+    background-color: rgb(58, 114, 255);
+    color: rgb(255, 255, 255);
+}
+
+
+a.nav-four-a {
+    /* am linkshi aris chashenebuli select da option tegebi*/
+    color: rgb(255, 255, 255);
+    transition: 2.0s;
+    width: 20px;
+    padding: 5px;
+}
+
+a#nav-four-a:hover{
+    background-color: rgb(58, 114, 255);
+    color: rgb(255, 255, 255);
+}
+
+/*select list*/
+
+select.parts {
+    list-style: none;
+    text-decoration: none;
+    border: none;
+    border-radius: 10px;
+    width: 80px;
+    height: 30px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(66, 66, 205);
+    transition: 2s;
+}
+select.parts:hover {
+    background-color: rgb(58, 114, 255);
+
+}
+
+a#nav-five-a { 
+    color: rgb(255, 255, 255);
+    transition: 2.0s;
+    width: 20px;
+    padding: 5px;
+}
+
+a#nav-five-a:hover{
+    background-color: rgb(58, 114, 255);
+    color: rgb(255, 255, 255);
+}
+
+
+select.other {
+    list-style: none;
+    text-decoration: none;
+    border: none;
+    border-radius: 10px;
+    width: 80px;
+    height: 30px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(66, 66, 205);
+    transition: 2s;
+}
+select.other:hover {
+    background-color: rgb(58, 114, 255);
+
+}
+/* aq meeqvse nav_a tegs ar unda style imitoro
+is gastilulia select da option tegebit */
+
+a#nav_seven_a {
+    color: rgb(255, 255, 255);
+    transition: 2.0s;
+    width: 20px;
+    padding: 5px;
+}
+
+a#nav_seven_a:hover {
+    background-color: rgb(58, 114, 255);
+    color: rgb(255, 255, 255);
+}
+
+
+
+/*About*/
+
+div.About_word {
+    width: 95%;
+    height: 350px;
+    background-color: rgb(119, 119, 250);
+    margin-top: 200px;
+    margin-left: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+
+}
+
+div.side_one {
+    width: 50%;
+    height: 350px;
+    font-size: 19px;
+    text-align: justify;
+}
+
+a#click_here_giveaway {
+ color: white;
+ transition: 1s;
+}
+
+a#click_here_premium {
+    color: white;
+    transition: 1s;
+}
+
+a#click_here_premium:hover {
+    color: rgb(206, 206, 206);
+}
+
+a#click_here_giveaway:hover {
+color: rgb(206, 206, 206);
+}
+
+div.side_two {
+    width: 50%;
+    height: 350px;
+    font-size: 19px;
+    /*i used margin and relative move function to give 
+    div container right side*/
+    float: right;
+    margin-top: -350px;
+    text-align: justify;
+}
+
+
+
+

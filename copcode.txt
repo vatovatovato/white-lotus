@@ -1,0 +1,15 @@
+blokebisnairi kedeli
+
+
+div#top_wall {
+    left: -958px;
+    top: -150px;
+    box-shadow: 100px 20px 0px rgb(78, 78, 254), 200px 40px 0px rgb(78, 78, 254), 300px 60px 0px rgb(78, 78, 254), 400px 80px 0px rgb(78, 78, 254), 500px 100px 0px rgb(78, 78, 254), 600px 120px 0px rgb(78, 78, 254), 700px 140px 0px rgb(78, 78, 254), 800px 140px 0px rgb(78, 78, 254), 900px 120px 0px rgb(78, 78, 254),1000px 100px 0px rgb(78, 78, 254),1100px 80px 0px rgb(78, 78, 254), 1200px 60px 0px rgb(78, 78, 254), 1300px 40px 0px rgb(78, 78, 254), 1400px 20px 0px rgb(78, 78, 254), 1500px 0px 0px rgb(78, 78, 254) ;
+}
+
+div#bottom_wall {
+    top: 529px;
+    left: -1020px;
+    box-shadow: 100px 20px 0px rgb(78, 78, 254), 200px 40px 0px rgb(78, 78, 254), 300px 60px 0px rgb(78, 78, 254), 400px 80px 0px rgb(78, 78, 254), 500px 100px 0px rgb(78, 78, 254), 600px 120px 0px rgb(78, 78, 254), 700px 140px 0px rgb(78, 78, 254), 800px 140px 0px rgb(78, 78, 254), 900px 120px 0px rgb(78, 78, 254),1000px 100px 0px rgb(78, 78, 254),1100px 80px 0px rgb(78, 78, 254), 1200px 60px 0px rgb(78, 78, 254), 1300px 40px 0px rgb(78, 78, 254), 1400px 20px 0px rgb(78, 78, 254), 1500px 0px 0px rgb(78, 78, 254);
+}
+    
